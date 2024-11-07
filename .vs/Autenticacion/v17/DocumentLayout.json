@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\shared\\_loginstatuspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\teacher\\teacher.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\teacher\\teacher.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\subject\\subject.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\subject\\subject.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\student\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\student\\student.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,20 +59,12 @@
       "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:autenticacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\teacher\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\teacher\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\subject\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\subject\\subject.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|c:\\users\\cmore\\onedrive\\desktop\\trabajos romo consolidado 3\\autenticacion\\autenticacion\\pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{913E76D9-2627-47EE-BE97-EACD52D399DA}|Autenticacion.csproj|solutionrelative:pages\\student\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,19 +83,97 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:45:27.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T19:45:19.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginStatusPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_LoginStatusPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-07T19:40:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "teacher.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Teacher\\teacher.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Teacher\\teacher.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Teacher\\teacher.cshtml.cs",
+              "RelativeToolTip": "Pages\\Teacher\\teacher.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:35:59.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "subject.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Subject\\subject.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Subject\\subject.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Subject\\subject.cshtml.cs",
+              "RelativeToolTip": "Pages\\Subject\\subject.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:35:21.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "student.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Student\\student.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Student\\student.cshtml.cs",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Student\\student.cshtml.cs",
+              "RelativeToolTip": "Pages\\Student\\student.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T19:34:25.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
               "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Index.cshtml.cs",
               "RelativeToolTip": "Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T16:41:46Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -79,12 +181,24 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-07T16:27:28.179Z",
+              "WhenOpened": "2024-11-07T16:27:28.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T21:04:22.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Account\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml.cs",
@@ -92,12 +206,11 @@
               "RelativeToolTip": "Pages\\Account\\Login.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T21:22:33.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T21:22:33.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Pages\\Account\\Login.cshtml",
@@ -105,12 +218,11 @@
               "RelativeToolTip": "Pages\\Account\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T21:15:27.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T21:15:27.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -118,64 +230,23 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T21:08:29.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T21:08:29.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Autenticacion",
+              "DocumentIndex": 13,
+              "Title": "Autenticacion.csproj",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Autenticacion.csproj",
               "RelativeDocumentMoniker": "Autenticacion.csproj",
               "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Autenticacion.csproj",
               "RelativeToolTip": "Autenticacion.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-06T21:07:47.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T21:04:22.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-06T21:07:47.632Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "teacher.cshtml",
-              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Teacher\\teacher.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Teacher\\teacher.cshtml",
-              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Teacher\\teacher.cshtml",
-              "RelativeToolTip": "Pages\\Teacher\\teacher.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T20:32:58.628Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "subject.cshtml",
-              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Subject\\subject.cshtml",
-              "RelativeDocumentMoniker": "Pages\\Subject\\subject.cshtml",
-              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Subject\\subject.cshtml",
-              "RelativeToolTip": "Pages\\Subject\\subject.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T20:32:34.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "student.cshtml",
               "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Student\\student.cshtml",
               "RelativeDocumentMoniker": "Pages\\Student\\student.cshtml",
@@ -185,6 +256,30 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-06T20:31:18.51Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "teacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Teacher\\teacher.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Teacher\\teacher.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Teacher\\teacher.cshtml",
+              "RelativeToolTip": "Pages\\Teacher\\teacher.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T20:32:58.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "subject.cshtml",
+              "DocumentMoniker": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Subject\\subject.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Subject\\subject.cshtml",
+              "ToolTip": "C:\\Users\\cmore\\OneDrive\\Desktop\\TRABAJOS ROMO CONSOLIDADO 3\\Autenticacion\\Autenticacion\\Pages\\Subject\\subject.cshtml",
+              "RelativeToolTip": "Pages\\Subject\\subject.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T20:32:34.876Z"
             }
           ]
         }
